@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/DogsApp/static/css/main.5c798f1c.chunk.css",
+    "main.js": "/DogsApp/static/js/main.c9c6125c.chunk.js",
+    "main.js.map": "/DogsApp/static/js/main.c9c6125c.chunk.js.map",
+    "runtime-main.js": "/DogsApp/static/js/runtime-main.14d9ce7f.js",
+    "runtime-main.js.map": "/DogsApp/static/js/runtime-main.14d9ce7f.js.map",
+    "static/js/2.3672c59f.chunk.js": "/DogsApp/static/js/2.3672c59f.chunk.js",
+    "static/js/2.3672c59f.chunk.js.map": "/DogsApp/static/js/2.3672c59f.chunk.js.map",
+    "index.html": "/DogsApp/index.html",
+    "static/css/main.5c798f1c.chunk.css.map": "/DogsApp/static/css/main.5c798f1c.chunk.css.map",
+    "static/js/2.3672c59f.chunk.js.LICENSE.txt": "/DogsApp/static/js/2.3672c59f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.14d9ce7f.js",
+    "static/js/2.3672c59f.chunk.js",
+    "static/css/main.5c798f1c.chunk.css",
+    "static/js/main.c9c6125c.chunk.js"
+  ]
+}
