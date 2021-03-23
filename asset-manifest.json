@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/DogsApp/static/css/main.5c798f1c.chunk.css",
-    "main.js": "/DogsApp/static/js/main.c9c6125c.chunk.js",
-    "main.js.map": "/DogsApp/static/js/main.c9c6125c.chunk.js.map",
+    "main.js": "/DogsApp/static/js/main.a7f46746.chunk.js",
+    "main.js.map": "/DogsApp/static/js/main.a7f46746.chunk.js.map",
     "runtime-main.js": "/DogsApp/static/js/runtime-main.14d9ce7f.js",
     "runtime-main.js.map": "/DogsApp/static/js/runtime-main.14d9ce7f.js.map",
     "static/js/2.3672c59f.chunk.js": "/DogsApp/static/js/2.3672c59f.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.14d9ce7f.js",
     "static/js/2.3672c59f.chunk.js",
     "static/css/main.5c798f1c.chunk.css",
-    "static/js/main.c9c6125c.chunk.js"
+    "static/js/main.a7f46746.chunk.js"
   ]
 }
