@@ -1,3 +1,5 @@
+You can see a demo! : https://michellesambiase.github.io/DogsApp/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
